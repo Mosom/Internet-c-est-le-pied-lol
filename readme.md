@@ -9,54 +9,55 @@
 
 ## Début de la listes
 
-[Snap.it] (https://forum.snahp.it)
+[Snap.it](https://forum.snahp.it)
 Succésseur du r/MegaLink qui a du fermer, les mecs sont un peu parano et la communauté très fermé. 
 > Nom de compte : MarieSoukaina
 > Mot de passe : 57JWTDYUV1G4S
 
-[Weboasis] (https://weboas.is/)
+[Weboasis](https://weboas.is/)
 Un site de génie, plusieurs moteur de recherche rassemblé, des dizaines de sites proposé sans description, la possibilité d'en enlever et d'en rajouter.
 Le site vous laisse aussi la possibilité de prendre des notes.
 Un chat est aussi à disposition, je vous conseille la section "Interesting links".
 Bref une grosse ref
-> [La meilleur FAQ du monde] (https://weboas.is/faq/)
+> [La meilleur FAQ du monde](https://weboas.is/faq/)
+> [Meilleur infographie du monde ](https://weboas.is/media/host.png)
 
-[Cockli] (https://cock.li/)
+[Cockli](https://cock.li/)
 Une boite mail anonyme et bien sympa si tu veux un email @420balze.it
 
-[SearchFTP] (https://www.searchftps.net/)
+[SearchFTP](https://www.searchftps.net/)
 Un bête indexer FTP, pas ultra pratique, mais toujours rigolo.
-> Et quand je dis rigolo, c'est aussi bizarre [check ça] (https://www.youtube.com/watch?v=s40kcM4yNjQ)
+> Et quand je dis rigolo, c'est aussi bizarre [check ça](https://www.youtube.com/watch?v=s40kcM4yNjQ)
 
-[TorrentGalaxy] (https://torrentgalaxy.org/)
+[TorrentGalaxy](https://torrentgalaxy.org/)
 Voila 
 
-[RinuLikes] (https://rinulikes.com/buy-twitter-followers/)
+[RinuLikes](https://rinulikes.com/buy-twitter-followers/)
 Un site pour acheter des likes, rt, fav etc toutes ces merdes sur les réseaux sociaux. 
 C'est pas utile mais pour moins de 2 balles tu peux ajouter 100 follows à un pote à toi.
 C'est aussi juste pour savoir que ça existe. Bref ... 
 
-[WorlMags.net] (https://www.worldmags.net/)
+[WorlMags.net](https://www.worldmags.net/)
 Un site pour dl des magazines, y a un peu de tout, faut fouiller là aussi ahah.
 
-[iBlockList] (https://www.iblocklist.com/)
+[iBlockList](https://www.iblocklist.com/)
 Un site avec des listes d'ip à bloquer, généralement à utiliser avec PeerBlock, regarde après je t'explque tout.
 Différent types de listes, des gratuites, des payantes, certaines pour éviter de faire espionner par les grosses entreprises, d'autre contre les gouvernements.
 
-[PeerBlock] (http://forums.peerblock.com/)
+[PeerBlock](http://forums.peerblock.com/)
 Logiciel qui empêche les IPs qu'on lui donne d'accéder à votre ordinateur selon des listes que vous lui donnez.
 
-[IPLeak] (https://ipleak.net/)
+[IPLeak](https://ipleak.net/)
 Un site pour savoir qu'elle est votre IP, pratique pour savoir si ton vpn marche.
 
-[Vuvuzela] (https://vuvuzela.io/getstarted)
+[Vuvuzela](https://vuvuzela.io/getstarted)
 Messagerie instanté qui vous protège. Uniquement sur Linux à mon grand désarrois. 
 
 [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
 Logiciel pour crypter certaines parties de votre disque dur.
 Je ne l'ai toujours pas installé chez moi, je sais pas trop si c'est pratique encore, mais ça à le mérite d'éxister.
 
-[Archive.org] (https://archive.org)
+[Archive.org](https://archive.org)
 Un site qui contient beaucoup de choses, livre, musique, film, généralement de l'open source.
 Cependant, beaucoup d'organisation comme des bibliothèque universitaire ou juste des passionés mettent des choses dessus et vous propose de les emprunter.
 Certaines fois avec des DRM, mais bon on peut toujours les enlever les DRM. Comment ? [Par là ;)] (https://github.com/apprenticeharper/DeDRM_tools/) et pour [le tuto en français] (https://www.liseuses.net/comment-supprimer-les-drm-de-ses-ebooks/)
@@ -147,5 +148,140 @@ Un site qui vous permet de recevoir des sms de confirmation quand certains sites
 [Awesome Piracy] (https://github.com/Igglybuff/awesome-piracy)
 Une très bonne liste uniquement orienté sur le piratage.
 Une grande inspiration aussi.
+
+[Oblikon] (https://oblikon.net)
+Un site qui livre des analyses de films. C'est pas mal quand t'es un peu perdue.
+
+[Explicationdefilm.com] (https://explicationdefilm.com)
+Idem que celui du dessu quand tu trouves rien dessus.
+
+[Zarflooder] (https://zarflooder.to/)
+Un flooder mail et téléphonique. JAMAIS TESTE !
+
+[Docx.to] (https://docx.to/)
+Echange de crypto monnaie, SE de certains site et carte d'identité a 20 euros. Semble fake. 
+
+[Imperiva.to] (https://imperiya.to)
+Un site de vente de compte. Pas le meilleur. Et surtout par les memes personnes que les deux du dessus.
+
+[FasttoTV] (https://fastotv.com/)
+Logiciel pour regarder la TV par IP. Seulement les chaines gratuites par contre faut pas pousser ahaha.
+
+[Cine.to] (https://cine.to/)
+Un site de streaming de film. Souvent sur Openload.
+
+[https://cdn.databases.today/] (https://cdn.databases.today/)
+Site de dump de base de données.
+
+[FavIcon] (https://gauger.io/fonticon/)
+Permet de creer un icone de favoris. C'est plus mignon qu'utile.
+
+[https://www.pawelzorzan.eu/stuff/?dir=] (https://www.pawelzorzan.eu/stuff/?dir=)
+Blog d'un dev, avec pleins de malware et de webzines en rapport avec la sécurité informatique.
+
+[Bypas Paywall] (https://github.com/iamadamdev/bypass-paywalls-firefox)
+Extension FireFox pour bypass les paywall de certains journaux. Marche pas trop avec les sites Français.
+
+[Fluxion] (https://github.com/FluxionNetwork/fluxion)
+Je vous laisse la description du gars : "The 1rst wifi cracker"
+
+[Dirsearch] (https://github.com/maurosoria/dirsearch)
+Simplement pour explorer tout ce qui est possible sur un site web.
+
+[Pi-Hole] (https://pi-hole.net/)
+Un bloqueur de pub pour tout un réseaux.
+
+[NakedTurtle] (https://shoppy.gg/user/nakedturtle)
+Un shop avec pleins de compte différent.
+
+[Doc Downloader] (https://docdownloader.com/)
+Permet de dl sur différents sites : Scribd, Slideshare, Issuu et Academia
+
+[Scribd Downloader.org] (https://scribddownloader.org/)
+Vraiment besoin d'expliquer ? 
+
+[Upstore.net] (https://upstore.net/)
+Petit hebergeur de fichier.
+
+[GetTheFont] (https://www.getthefont.com/)
+Moteur de recherche pour les typographies.
+
+[Slider.kz] (http://slider.kz/)
+Moteur de recherche pour trouver et dl de la musique.
+
+[DevDocs.io/] (https://devdocs.io/html-miscellaneous/)
+Toutes les screencheat de tous les languages informatique du monde.
+
+[Doxbin] (https://doxbin.org/)
+Comme son nim l'indique c'est la poubelle à Dox.
+
+[OnlineOCR] (https://www.onlineocr.net/)
+Convertit un fichier pdf en fichier word ou autre.
+
+[UltraVFX] (https://www.ultravfx.com/#)
+Site de Warez pour ceux qui font des effets spéciaux.
+
+[https://b-ok.xyz/] (https://b-ok.xyz/)
+Un site avec beaucoup d'eboook.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Maj du 09/05/2019
