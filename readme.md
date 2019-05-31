@@ -297,17 +297,46 @@ Un site ou vous rentrez un artiste et le site vous propose des choses plus ou mo
 [PDFDrive](https://www.pdfdrive.com/)
 > ![Pdf](https://memegenerator.net/img/instances/55576922/look-pdf-pdf-everywhere.jpg)
 
+[VideoSpider](https://videospider.in)
+API qui va rechercher un film avec son id IMDB et trouver differents liens sur différents sites.
 
+[Lookmovie](https://lookmovie.ag/)
+Site de streaming de site et de séries.
 
+[Stream4u](http://streamm4u.com/)
+Idem.
 
+[Leak This](https://leakth.is/)
+Un site de leak pour la musique.
 
+[NippySpace](https://nippyspace.com/)
+Hebergeur de fichier.
 
+[ScreeshotSomparision](http://screenshotcomparison.com/)
+Permet de comparer la qualité de differentes relaease d'un film.
 
+[/PTG tracker manifesto](https://pastebin.com/thLgSkNE)
+Une liste de tout les tracker connue actuellement.
 
+[La meme chose](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050)
 
+[Twist](https://twist.moe/)
+Site de streaming d'animé.
 
+[scnlog.me](https://scnlog.me/)
+Un site de direct download.
 
+[DownDuck](http://www.downduck.com/)
+Idem
 
+[Llink-Base](https://link-base.org/)
+Site qui repertorie des sites en rapport avec le warez ou le hacking.
+
+[Mp3Db](https://mp3db.pro/)
+Site de direct download de musique.
+
+[PsaRips](https://psarips.org/)
+Site de direct download de film série et emission tv.
 
 
 
