@@ -222,36 +222,80 @@ Convertit un fichier pdf en fichier word ou autre.
 Site de Warez pour ceux qui font des effets spéciaux.
 
 [https://b-ok.xyz/](https://b-ok.xyz/)
-Un site avec beaucoup d'eboook.
+Un site avec beaucoup d'ebook.
 
+[WatchSeries](https://www1.swatchseries.to/)
+J'ai vraiment besoin d'expliquer ? 
 
+[Daniel's Hosting](https://hosting.danwin1210.me/)
+Un mec qui vous propose de host vrotre site. Rien d'illégal n'est autorisé.
 
+[SendIt.gg](https://sendit.gg/)
+Site de streaming de chaine télé.
 
+[http://asn.cymru.com/cgi-bin/whois.cgi](http://asn.cymru.com/cgi-bin/whois.cgi)
+Un WHOIS tout bete.
 
+[http://nanami-tan.info/#HTMLPage](http://nanami-tan.info/#HTMLPage)
+Logiciel et autre pour custom votre windows 7.
 
+[EmuCR](http://www.emucr.com/)
+Un site pour avori des nouvelles de la scène de l'emulation. 
 
+[TheOfficeExtended](https://www.facebook.com/TheOfficeExtended/)
 
+[https://www.zippyshare.com/plank28](https://www.zippyshare.com/plank28)
+Un tas de keygen ou de crack herberger sur zippysahre.
 
+[VFXDownload](http://vfxdownload.com/)
+Des templates pour adobe premiere.
 
+[iTorrents](https://itorrents.org/)
+Un site qui vous permet de mettre en cache des fichier en torrent et d'y accéder plus tard.
 
+[https://thetorrent.org/](https://thetorrent.org/)
+Idem.
 
+[DeezloaderRemix](https://notabug.org/RemixDevs/DeezloaderRemix)
+Le famaeux DeezloaderRemix.
 
+[Torrent de Gen2](https://thepiratebay10.org/user/generation2)
+Toute les version possibles et imaginable de Windows 10.
 
+[MyGoodStream](http://mygoodstream.pw/)
+Stream de sport.
 
+[ghack-user.js](https://github.com/ghacksuserjs/ghacks-user.js)
+Un fichier user.js pour parametrer firefox de façon a proteger votre vie privée sur internet.
 
+[user.js](https://github.com/loganmarchione/Firefox-tweaks/blob/master/user.js)
+Meme délire.
 
+[Palined](http://palined.com/search/)
+Recherche sur les open directories de google.
 
+[Avxhm](https://avxhm.se/)
+Des logiciels, des comics, un peu de tout quoi .... 
 
+[Desmos](https://www.desmos.com/)
+Un geogébra, mieux que géogébra en ligne. 
 
+[EveryNoise](http://everynoise.com/)
+Une carte mentale de la musique. C'est grand.
 
+[Rainwave](https://rainwave.cc/all/)
+Une radio avec uniquement des musiques de jeux vidéo. Il y a la possiblité de voté pour les musiques qui passent.
 
+[https://earth.nullschool.net/#current/wind/surface/level/orthographic=-349.65,48.03,1106](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-349.65,48.03,1106)
+Un carte du monde qui vous montre les courants d'air.
 
+[Music Map](https://www.music-map.com/)
+Un site ou vous rentrez un artiste et le site vous propose des choses plus ou moins proches.
 
+[https://stream.allsprk.tv/#2](https://stream.allsprk.tv/#2)
 
-
-
-
-
+[PDFDrive](https://www.pdfdrive.com/)
+![Pdf](https://memegenerator.net/img/instances/55576922/look-pdf-pdf-everywhere.jpg)
 
 
 
