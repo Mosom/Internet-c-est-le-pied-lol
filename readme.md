@@ -301,7 +301,7 @@ Un site ou vous rentrez un artiste et le site vous propose des choses plus ou mo
 API qui va rechercher un film avec son id IMDB et trouver differents liens sur différents sites.
 
 [Lookmovie](https://lookmovie.ag/)
-Site de streaming de site et de séries.
+Site de streaming de film et de séries.
 
 [Stream4u](http://streamm4u.com/)
 Idem.
@@ -338,23 +338,49 @@ Site de direct download de musique.
 [PsaRips](https://psarips.org/)
 Site de direct download de film série et emission tv.
 
+[FreemagSpot](http://www.freemagspot.me/)
+Téléchargement de magazines.
+
+[DownMagz](https://downmagaz.com/)
+Idem.
+
+[WsM mirror](https://wsmmirror.info/)
+Un site mirroir de WatchSoMuch.
+
+[PasteBin Dump](https://www.psbdmp.ws)
+Moteur de recherche pour PasteBin.
+
+[emberclear](https://emberclear.io/)
+Encrypted Chat. No History. No Logs.
+>Messagerie crypté. Pas d'historique. Pas de logs.
+
+[i.privacyinfinity.com](https://i.privacyinfinity.com/)
+Hebergeur d'image sans censure et respectueux de la vie privée.
+
+[filechef](http://filechef.com/)
+Moteur de recherche dans les "open directories" trouvable sur Google.
+
+[gramuser](http://gramuser.com/)
+Permet de trouver le liens instagram d'une personne selon son nom ou pseudo.
+
+[dnsleaktest](https://www.dnsleaktest.com/)
+Permet de savoir si vous avez un "leak" de DNS.
+
+[VSTorrent](https://vstorrent.org/)
+Site de torrent pour tout ce qui touche à la MAO.
+
+[AudioNews](https://audionews.org/)
+Site de téléchargement pour tout ce qui touche à la MAO.
+
+[Fls Audio.com](https://flsaudio.com/en/)
+Idem.
+
+[DopeRoms](https://www.doperoms.com/)
+Un site pour telecharger des ROMs. \
+Nique Nintendo.
+
+[]()
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Maj du 30/05/2019
+Maj du 31/05/2019
