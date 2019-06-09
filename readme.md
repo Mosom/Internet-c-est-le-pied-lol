@@ -379,8 +379,94 @@ Idem.
 Un site pour telecharger des ROMs. \
 Nique Nintendo.
 
-[]()
+[PcGamingWiki](https://pcgamingwiki.com/wiki/Home)
+Un site qui vise à répertorier tout les jeux PC.
+
+[Tableau comparatif d'hebergeurs de fichier](https://nafanz.github.io/filesharing.html)
+
+[Upfile.mobi](http://upfile.mobi/)
+Hebergeur de fichier.
+
+[upload.run RELOADED](http://upload.run/)
+Hebergeur de fichier pour une période précise.
+
+[TheTrove.net](https://thetrove.net/)
+Site à but non lucratif pour l'archivage des RPGs papier.
+
+[aether](https://getaether.net/)
+
+[EuropixHD](https://europixhd.net/)
+Site de streaming de film.
+
+[I have no TV](https://ihavenotv.com/)
+Site de streaming/telechargement/torrent de documentaire TV.
+
+[Jet Set RADIO](https://jetsetradio.live/)
+Un site qui joue la radio de Jet Set Radio ! 
+
+[Universal Bypass](https://universal-bypass.org/)
+Permet de bypass les sites qui vous font attendre et vous pouvez ecrire vos propre scripts pour bypass d'autre chose.
+
+[Mp3 Jams](https://mp3jams.net/)
+Site de direct download de musique.
+
+[Peekier](https://peekier.com/)
+Moteur de recherche respectant la vie privée.
+
+[Anon.to](https://anon.to/)
+Permet de raccourcir des liens de manière anonyme.
+
+[FilePursuitdub](https://filepursuit.com/)
+Moteur de recherche de fichier dans les "open directories".
+
+[GameCopyWordl](https://www.gamecopyworld.eu/games/index.php)
+Un site qui répertorie les cracks ainsi que les différents Trainers pour les jeux PC. \
+Vraiment une ref'.
+
+[upload.vaa.red](https://upload.vaa.red/)
+Hebergeur de lien qui crypte les données de votre fichier.
+
+[Updlight](https://www.upblight.com/)
+Hebergeur de fichier.
+ 
+[DDL.me](https://en.ddl.me/)
+Site de direct download de film.
+
+[moviemagnet.co](http://moviemagnet.co/)
+Index de torrent de film.
+
+[HDEncode](https://hdencode.com/)
+Site de direct download de film.
+
+[Stellarium-web.org](https://stellarium-web.org/)
+Carte des étoiles.
+
+[123apps.com](https://123apps.com/fr/)
+Des appli web gratuites, beaucoup de choses : convertisseur audio/vidéo, découpeur audio/vidéo etc
+
+[cmd.to](https://cmd.to/)
+Pour les amoureux du DOS. \
+Essayer la commande fm quand meme ;)
+
+[NewAlbum.club](https://newalbum.club/)
+Site de direct download de musique.
 
 
 
-Maj du 31/05/2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Maj du 09/06/2019
