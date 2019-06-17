@@ -32,7 +32,7 @@ Passons au chose sérieuse :D
 -[Hebergeur](#Hebergeur)
 
 
-##Musique
+## Musique
 > Ici, on va avoir tout les sites en rapport avec la musique en générale
 
 [Spytify](https://github.com/jwallet/spy-spotify)
@@ -57,7 +57,7 @@ Site de direct download de musique.
 [DeezloaderRemix](https://notabug.org/RemixDevs/DeezloaderRemix)
 Le famaeux DeezloaderRemix. Permet de télécharger sur deezer en mp3 et flac.
 
-##Film
+## Film
 >Comme tout à l'heure que de la vidéo, donc : film, animé, docu etc
 
 [PsaRips](https://psarips.org/)
@@ -110,7 +110,7 @@ J'ai vraiment besoin d'expliquer ?
 [SendIt.gg](https://sendit.gg/)
 Site de streaming de chaine télé.
 
-##Livre 
+## Livre 
 > ![Pdf](https://memegenerator.net/img/instances/55576922/look-pdf-pdf-everywhere.jpg)
 
 [PDFDrive](https://www.pdfdrive.com/)
@@ -133,10 +133,10 @@ Il regroupe certains eBook vendu sur des forums pour cher parfois.
 Y a un peu de tout, des tuto de dox, de eWhorring, de DropShipping.
 Je vous le donne a des fins éducative bien sur ahaha, mais surtout pour emmerder le fils de pute qui vendent toutes ces merdes ahaha.
 
-##JV
+## JV
 
 
-##Soft
+## Soft
 
 [FossHub.com](https://www.fosshub.com/)
 Un site qui vous permet de télécharger des softs sans pubs, sans logicels tiers etc
@@ -170,7 +170,7 @@ Site de téléchargement pour tout ce qui touche à la MAO.
 [Fls Audio.com](https://flsaudio.com/en/)
 Idem.
 
-##Generale
+## Generale
 >Sur ces sites vous trouverez un peu de tout film/série, ebook, musique, jeux etc
 [Snap.it](https://forum.snahp.it)
 Succésseur du r/MegaLink qui a du fermer, les mecs sont un peu parano et la communauté très fermé. 
@@ -198,7 +198,7 @@ Un site de direct download.
 [DownDuck](http://www.downduck.com/)
 Idem
 
-##Illegale
+## Illegale
 
 [RinuLikes](https://rinulikes.com/buy-twitter-followers/)
 Un site pour acheter des likes, rt, fav etc toutes ces merdes sur les réseaux sociaux. 
@@ -224,7 +224,7 @@ Un shop avec pleins de compte différent à vendre.
 [Doxbin](https://doxbin.org/)
 Comme son nom l'indique c'est la poubelle à Dox.
 
-##Outils
+## Outils
 >Site web
 [Stream.now](https://streams.now.sh/#/)
 Un moteur de recherche sur certains sites de streaming, même si ololo reste pour moi le meilleur.
@@ -255,7 +255,7 @@ Je vous laisse la description du gars : "The 1rst wifi cracker"
 [Dirsearch](https://github.com/maurosoria/dirsearch)
 Simplement pour explorer tout ce qui est possible sur un site web.
 
-##Vrac
+## Vrac
 >Tout ce qu'on est en train de trié ou qu'on a la flemme de trier.
 [iBlockList](https://www.iblocklist.com/)
 Un site avec des listes d'ip à bloquer, généralement à utiliser avec PeerBlock, regarde après je t'explque tout.
@@ -470,7 +470,7 @@ Pour les amoureux du DOS. \
 Essayer la commande fm quand meme ;)
 
 
-##Hebergeur
+## Hebergeur
 >Fichier en vrac
 [upload.vaa.red](https://upload.vaa.red/)
 Hebergeur de lien qui crypte les données de votre fichier.
